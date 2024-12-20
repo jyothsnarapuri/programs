@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ProjectTemplate1\ProjectTemplate1\bin\Debug\ProjectTemplates\CSharp\1033\ProjectTemplate1.zip
+C:\Users\User\source\repos\ProjectTemplate1\ProjectTemplate1\obj\Debug\ProjectTemplate1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjectTemplate1\ProjectTemplate1\obj\Debug\_EmptyResource.resources
+C:\Users\User\source\repos\ProjectTemplate1\ProjectTemplate1\obj\Debug\ProjectTemplate1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProjectTemplate1\ProjectTemplate1\obj\Debug\ProjectTemplate1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectTemplate1\ProjectTemplate1\obj\Debug\CSharp\1033\ProjectTemplate1.zip
+C:\Users\User\source\repos\ProjectTemplate1\ProjectTemplate1\obj\Debug\ProjectTemplate1.dll
+C:\Users\User\source\repos\ProjectTemplate1\ProjectTemplate1\obj\Debug\ProjectTemplate1.pdb
